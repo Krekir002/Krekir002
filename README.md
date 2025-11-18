@@ -1,7 +1,8 @@
-## Hi pussy girls and boys 🚮
+## Приветик я на связи
 ## я использую golang, python, html, javascript
-## я пикми 🌸 япония вайб есть 
-## <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/17b49f60-c8c8-4817-8b02-effc77ce81c7" />
+## япония + винтаж 💘
+## <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/ed5cd41a-b3fd-431c-b97a-de7281537596" />
+## Классно губишь, я сам себя предпочитаю убивать
 
 
 
