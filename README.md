@@ -2,7 +2,7 @@
 ## я использую golang, python, html, javascript
 ## я пикми 🌸 япония вайб есть 
 ## <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/17b49f60-c8c8-4817-8b02-effc77ce81c7" />
-## https://github.com/user-attachments/assets/79fdb841-4987-4e1e-9c10-c5a77874707e
+
 
 
 <!--
