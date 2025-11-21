@@ -1,7 +1,7 @@
 ## Приветик я на связи
 ## я использую golang, python, html, javascript
 ## япония + винтаж 💘
-## <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ed5cd41a-b3fd-431c-b97a-de7281537596" />
+## <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ed5cd41a-b3fd-431c-b97a-de7281537596" />
 ## Классно губишь, я сам себя предпочитаю убивать
 
 
